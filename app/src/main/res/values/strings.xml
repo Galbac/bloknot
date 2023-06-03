@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">bloknot</string>
+    <string name="title_hint">Заголовок</string>
+    <string name="content_hint">Содержание</string>
+</resources>
